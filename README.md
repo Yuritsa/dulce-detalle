@@ -1,4 +1,4 @@
-# dulce-detalle
+# Landing Page Dulce Detalle
 Este proyecto es una landing page para un carrito de compras de dulce detalle
 que los derecho están reservados a nombre de Yuritsa Páez.
 
